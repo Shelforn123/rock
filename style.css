@@ -1,0 +1,36 @@
+title{
+    border: 1px;
+}
+body{
+    margin: 0%;
+    background-color: rgb(108, 108, 255);
+    font-family:sans-serif;
+}
+header{
+    text-align:center;
+   padding: 10px;
+    background-color: blue;
+}
+a{
+   border-radius: 10px;
+   background-color: rgb(252, 252, 252);
+   padding: 10px;
+   display: inline-block;
+   margin: 5px;
+   text-decoration: none;
+   color: black;
+   border: 3px solid;
+   :black;
+}
+table{
+    padding: 10px;
+    border-collapse: collapse;
+    margin: 10px auto;
+}
+p{
+    text-align: center;
+}
+
+footer{
+    padding: 15px;
+}
